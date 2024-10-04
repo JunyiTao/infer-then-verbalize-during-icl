@@ -1,1 +1,1 @@
-## <p align="center">Inference and Verbalization Functions in In-Context Learning</p>
+## <p align="center">Inference and Verbalization Functions During In-Context Learning</p>
