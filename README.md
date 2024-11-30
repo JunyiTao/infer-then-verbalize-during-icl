@@ -1,8 +1,8 @@
 ## <p align="center">Inference and Verbalization Functions During In-Context Learning</p>
 
-This repository contains the code for the paper "[Inference and Verbalization Functions During In-Context Learning]()". 
+This repository contains the code for the paper "[Inference and Verbalization Functions During In-Context Learning](https://aclanthology.org/2024.findings-emnlp.957/)". 
 
-#### Create environment and install dependencies:
+#### Create then environment and install dependencies:
 ```
 conda create -n infer-verbalize python=3.10
 conda activate infer-verbalize
