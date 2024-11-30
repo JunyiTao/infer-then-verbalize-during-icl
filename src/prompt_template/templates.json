@@ -1,0 +1,36 @@
+{   
+    "sentence": {
+        "template": "sentence 1: {premise}\nsentence 2: {hypothesis}\n{answer}",
+        "category": "blank/null"
+    },
+
+    "sent_label": {
+        "template": "Sentence 1: {premise}\nSentence 2: {hypothesis}\nLabel:{answer}",
+        "category": "blank/null"
+    },
+
+    "passage_sentiment": {
+        "template": "Passage:\n{premise}\nSentiment\n{answer}",
+        "category": "blank"
+    },
+
+    "passage_label": {
+        "template": "Passage: {premise}\nLabel:{answer}",
+        "category": "blank"
+    },
+
+    "text_linebreak": {
+        "template": "Text: {premise}\n{answer}",
+        "category": "blank"
+    },
+
+    "text_topic": {
+        "template": "Text: {premise}\nTopic:{answer}",
+        "category": "blank/null"
+    },
+
+    "ambi_instruct": {
+        "template": "sentence 1: {premise}\nsentence 2: {hypothesis}\n{answer}",
+        "category": "blank/null"
+    }
+}
